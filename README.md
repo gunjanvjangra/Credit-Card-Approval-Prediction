@@ -1,4 +1,4 @@
-# 📌 **Credit Card Approval Prediction — Machine Learning Project**
+# **Credit Card Approval Prediction**
 
 This project aims to build a machine learning-based system to predict whether a credit card applicant is likely to default, based on historical repayment behaviour and demographic attributes. Such a predictive model helps financial institutions automate and strengthen approval decisions.
 
